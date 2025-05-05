@@ -1,0 +1,163 @@
+Tipo,Atributo,Media,Mediana,Moda,Desviación estándar,Mínimo,Máximo
+Normal,HP,77.7,73.0,55,33.73,30,255
+Normal,Ataque,75.66,75.0,60,28.18,5,160
+Normal,Defensa,62.18,60.5,70,23.02,5,126
+Normal,Ataque Especial,60.92,55.0,40,26.86,15,135
+Normal,Defensa Especial,65.79,65.0,75,24.21,20,135
+Normal,Velocidad,71.11,70.5,60,27.0,5,135
+Normal,Altura,15.66,9.0,3,39.82,2,350
+Normal,Peso,632.96,257.5,65,1470.32,7,10000
+Normal,Experiencia Base,145.42,146.0,172,86.05,38,635
+Fighting,HP,79.33,80.0,100,21.82,30,154
+Fighting,Ataque,110.49,115.0,130,27.35,35,190
+Fighting,Defensa,81.87,80.0,80,24.83,30,140
+Fighting,Ataque Especial,66.98,63.0,35,28.11,20,154
+Fighting,Defensa Especial,74.23,70.0,60,22.81,30,140
+Fighting,Velocidad,83.36,83.0,85,29.35,25,151
+Fighting,Altura,22.6,14.0,14,43.6,4,290
+Fighting,Peso,1209.2,540.0,3030,1908.14,40,10000
+Fighting,Experiencia Base,200.97,178.0,290,85.2,42,360
+Flying,HP,71.5,70.0,60,19.69,30,150
+Flying,Ataque,81.28,80.0,60,30.04,20,180
+Flying,Defensa,69.34,70.0,70,23.56,30,140
+Flying,Ataque Especial,77.77,74.0,60,31.27,30,180
+Flying,Defensa Especial,72.36,70.0,80,25.14,30,154
+Flying,Velocidad,85.77,85.0,60,23.79,40,160
+Flying,Altura,16.6,10.0,3,30.83,2,280
+Flying,Peso,666.62,273.0,3,1645.37,3,10000
+Flying,Experiencia Base,170.17,166.0,290,78.4,49,351
+Poison,HP,69.31,65.0,80,27.8,30,255
+Poison,Ataque,74.94,73.0,65,23.92,25,150
+Poison,Defensa,69.57,65.0,60,30.1,30,250
+Poison,Ataque Especial,74.36,67.5,40,32.91,15,170
+Poison,Defensa Especial,72.46,70.0,70,29.93,20,250
+Poison,Velocidad,70.44,71.5,75,29.5,15,145
+Poison,Altura,33.71,12.0,10,108.4,2,1000
+Poison,Peso,926.63,297.5,10000,2283.28,0,10000
+Poison,Experiencia Base,153.84,162.5,172,86.92,39,563
+Ground,HP,77.9,75.0,50,30.87,10,216
+Ground,Ataque,91.56,90.0,100,30.07,40,180
+Ground,Defensa,88.89,85.0,80,36.01,25,230
+Ground,Ataque Especial,61.74,55.0,45,26.85,20,150
+Ground,Defensa Especial,67.75,70.0,45,22.03,25,120
+Ground,Velocidad,60.47,55.0,35,27.53,10,120
+Ground,Altura,19.32,12.0,7,27.35,2,220
+Ground,Peso,1548.39,655.0,65,2250.24,8,10000
+Ground,Experiencia Base,167.34,165.0,60,87.91,42,354
+Rock,HP,68.77,65.5,60,21.07,20,123
+Rock,Ataque,90.14,95.0,100,32.0,10,165
+Rock,Defensa,99.55,100.0,100,37.79,40,230
+Rock,Ataque Especial,62.41,60.0,60,26.92,10,160
+Rock,Defensa Especial,72.88,65.0,65,31.77,20,230
+Rock,Velocidad,59.92,55.0,60,31.7,5,150
+Rock,Altura,18.02,10.0,3,47.15,3,420
+Rock,Peso,1200.03,552.5,400,1765.79,3,10000
+Rock,Experiencia Base,158.47,170.0,175,72.05,48,315
+Bug,HP,57.98,60.0,60,17.86,1,107
+Bug,Ataque,71.59,65.0,45,36.29,10,185
+Bug,Defensa,71.6,63.5,50,31.82,20,230
+Bug,Ataque Especial,58.53,52.0,40,30.27,10,145
+Bug,Defensa Especial,67.56,69.5,80,31.03,20,230
+Bug,Velocidad,61.92,58.5,65,32.17,5,160
+Bug,Altura,19.53,8.0,3,75.03,1,750
+Bug,Peso,643.01,176.0,120,1695.55,2,10000
+Bug,Experiencia Base,133.49,148.0,72,69.77,36,300
+Ghost,HP,65.98,60.0,60,26.97,1,150
+Ghost,Ataque,79.6,77.5,60,27.88,30,165
+Ghost,Defensa,79.08,75.0,80,30.02,25,160
+Ghost,Ataque Especial,82.78,77.5,50,35.7,30,170
+Ghost,Defensa Especial,79.25,76.0,75,26.47,30,140
+Ghost,Velocidad,68.95,70.0,70,31.27,10,150
+Ghost,Altura,14.73,10.0,16,22.3,1,200
+Ghost,Peso,693.45,145.0,150,1538.66,1,10000
+Ghost,Experiencia Base,170.67,168.0,173,85.16,54,340
+Steel,HP,72.14,70.0,70,23.54,10,137
+Steel,Ataque,96.07,95.0,100,31.32,24,181
+Steel,Defensa,108.45,105.0,100,37.71,30,230
+Steel,Ataque Especial,73.12,60.0,60,33.66,10,150
+Steel,Defensa Especial,80.97,80.0,70,28.05,31,150
+Steel,Velocidad,62.98,60.0,30,28.9,10,148
+Steel,Altura,27.76,12.0,10,58.01,2,430
+Steel,Peso,2199.99,805.0,10000,2922.68,1,10000
+Steel,Experiencia Base,199.56,178.0,300,85.4,53,360
+Fire,HP,71.99,70.0,60,19.2,38,115
+Fire,Ataque,85.05,81.0,60,29.18,30,180
+Fire,Defensa,72.2,67.0,40,25.86,30,160
+Fire,Ataque Especial,88.49,85.0,80,31.35,15,159
+Fire,Defensa Especial,73.72,70.0,80,21.81,40,154
+Fire,Velocidad,76.18,80.0,100,26.42,20,135
+Fire,Altura,28.99,12.0,6,89.56,3,750
+Fire,Peso,1170.0,375.0,10000,2211.11,3,10000
+Fire,Experiencia Base,178.25,173.0,62,83.14,50,347
+Water,HP,71.61,70.0,70,26.16,10,170
+Water,Ataque,77.6,75.0,65,29.09,10,160
+Water,Defensa,75.1,70.0,65,27.91,20,180
+Water,Ataque Especial,75.47,70.0,50,29.96,10,180
+Water,Defensa Especial,72.1,70.0,50,27.82,20,160
+Water,Velocidad,69.16,70.0,85,25.61,5,136
+Water,Altura,22.76,11.0,5,48.88,2,400
+Water,Peso,921.54,305.0,180,1869.68,3,10000
+Water,Experiencia Base,156.8,164.5,166,77.86,40,347
+Grass,HP,67.68,68.5,60,19.85,30,123
+Grass,Ataque,78.11,75.0,100,28.82,27,181
+Grass,Defensa,74.39,73.5,70,23.89,30,131
+Grass,Ataque Especial,73.16,70.0,60,25.04,24,145
+Grass,Defensa Especial,73.48,75.0,80,22.04,30,135
+Grass,Velocidad,63.28,60.0,30,28.61,10,150
+Grass,Altura,16.82,9.0,3,39.78,1,280
+Grass,Peso,621.3,156.5,50,1638.94,1,10000
+Grass,Experiencia Base,155.97,161.5,67,79.27,36,300
+Electric,HP,63.94,60.0,35,23.96,20,154
+Electric,Ataque,73.63,70.0,55,25.42,30,150
+Electric,Defensa,66.57,63.0,40,25.51,15,130
+Electric,Ataque Especial,83.65,80.0,50,32.8,30,173
+Electric,Defensa Especial,69.01,70.0,50,21.98,25,115
+Electric,Velocidad,85.31,90.0,90,31.59,15,200
+Electric,Altura,16.49,7.5,4,36.93,1,240
+Electric,Peso,837.3,204.0,60,1782.92,3,10000
+Electric,Experiencia Base,168.95,164.0,112,81.31,41,340
+Psychic,HP,74.92,74.5,60,25.39,20,190
+Psychic,Ataque,75.86,71.0,65,36.82,20,190
+Psychic,Defensa,77.06,75.0,65,28.56,15,180
+Psychic,Ataque Especial,95.58,95.0,100,35.95,23,194
+Psychic,Defensa Especial,87.98,90.0,100,27.61,20,160
+Psychic,Velocidad,77.0,79.5,30,33.63,15,180
+Psychic,Altura,16.21,12.5,15,25.99,1,260
+Psychic,Peso,971.45,411.5,608,1890.0,1,10000
+Psychic,Experiencia Base,196.46,175.0,300,92.17,40,351
+Ice,HP,81.06,80.0,90,27.03,30,170
+Ice,Ataque,88.2,80.0,50,33.44,25,170
+Ice,Defensa,79.03,76.0,80,33.59,15,184
+Ice,Ataque Especial,74.45,72.5,85,32.34,10,170
+Ice,Defensa Especial,75.48,72.5,90,28.89,30,200
+Ice,Velocidad,69.0,65.0,50,28.79,20,136
+Ice,Altura,18.27,14.0,14,28.76,3,240
+Ice,Peso,1536.71,729.0,1200,2030.59,3,10000
+Ice,Experiencia Base,168.94,168.0,61,81.46,37,350
+Dragon,HP,89.1,85.0,100,35.49,28,255
+Dragon,Ataque,100.02,100.0,100,29.12,30,180
+Dragon,Defensa,90.36,90.0,100,28.61,30,250
+Dragon,Ataque Especial,98.35,100.0,120,36.11,30,180
+Dragon,Defensa Especial,87.28,90.0,100,30.49,30,250
+Dragon,Velocidad,86.05,85.0,135,30.98,20,145
+Dragon,Altura,43.37,20.0,18,107.78,2,1000
+Dragon,Peso,2121.77,1105.0,3030,2457.88,0,10000
+Dragon,Experiencia Base,239.58,270.0,300,98.17,49,563
+Dark,HP,75.86,70.5,70,26.83,30,223
+Dark,Ataque,95.46,92.5,120,29.33,28,164
+Dark,Defensa,72.38,70.0,70,25.79,20,150
+Dark,Ataque Especial,74.7,69.5,60,29.74,25,170
+Dark,Defensa Especial,71.18,67.5,60,25.29,20,135
+Dark,Velocidad,78.98,77.0,60,25.48,20,135
+Dark,Altura,20.06,12.0,15,43.59,3,320
+Dark,Peso,989.8,400.0,700,1869.52,21,10000
+Dark,Experiencia Base,179.98,172.5,285,82.93,49,340
+Fairy,HP,67.64,65.0,50,21.95,20,140
+Fairy,Ataque,71.53,65.0,45,31.62,20,160
+Fairy,Defensa,75.06,74.0,65,28.32,15,150
+Fairy,Ataque Especial,82.12,80.0,95,33.12,20,165
+Fairy,Defensa Especial,88.36,90.0,115,30.46,20,154
+Fairy,Velocidad,69.7,65.0,50,32.28,15,148
+Fairy,Altura,19.41,8.0,2,53.69,1,320
+Fairy,Peso,625.88,115.0,5,1879.15,1,10000
+Fairy,Experiencia Base,178.64,167.0,285,91.38,38,425
